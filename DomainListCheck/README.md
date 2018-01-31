@@ -1,3 +1,12 @@
+# Description
+Script qui permet de capturer une image png du site web exposé en partant de son nom de domaine.
+
+Curl permet de récupérer l'url http en face du nom de domaine
+
+Cutycapt réalise la capture en jpg
+
+le script génère une sortie HTML et CSV.
+
 # Installation
 ## Debian
 ```
