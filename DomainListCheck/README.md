@@ -11,8 +11,8 @@ apt install curl cutycapt
 
 contient la liste des domaines à scanner
 
-#Sortie
+# Sortie
 
-Un dossier timestampé qui contient un fichier html (css bootstrap) sous forme de tableau
-Un fichier CSV
-Un dossier avec les png des sites capturé
++ Un dossier timestampé qui contient un fichier html (css bootstrap) sous forme de tableau
++ Un fichier CSV
++ Un dossier avec les png des sites capturé
